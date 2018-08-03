@@ -1,4 +1,4 @@
-# Simple Linear Regression
+# Feature Engineering 
 ## Using Heads of State Data 
 * This notebook continues to hone EDA skills by implementing feature enginerring using the Pandas library in order to build MLR models using the Stats Models library to predict the length of reign. 
 
