@@ -1,8 +1,8 @@
 # Feature Engineering 
 ## Using Heads of State Data 
-* This notebook continues to hone EDA skills, implementing feature engineering with Pandas to build MLR models using the Stats Models library in order to predict the length of a ruler's reign. 
+* This notebook uses regression techniques to predict the length of a ruler's reign, implementing engineered features with Pandas to build Linear Regression Models with the Stats Models library,
 
-* The dataset utilized contains rulers names, the length of reign, the age term began, and their religion, politcal party, and royal status among other features. 
+* The dataset utilized contains rulers names, the length of reign, the age term began, and rulers' religious, politcal, and royal statuses among other features. 
 
 ## Overview 
 
