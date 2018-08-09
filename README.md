@@ -2,7 +2,7 @@
 ## Using Heads of State Data 
 * This notebook uses regression techniques to predict the length of a ruler's reign, implementing engineered features with Pandas to build Linear Regression Models with the Stats Models library,
 
-* The dataset utilized contains rulers names, the length of reign, the age term began, and rulers' religious, politcal, and royal statuses among other features. 
+* The dataset utilized contains rulers' names, the length of reign, the age term began, and rulers' religious, politcal, and royal statuses among other features. 
 
 ## Overview 
 
