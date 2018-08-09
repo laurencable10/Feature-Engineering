@@ -7,7 +7,7 @@
 ## Overview 
 
 ### Exploratory Data Analysis 
-- Leveraging the .describe( ) method to produce notable findings and do necessary data clean-up/datatype conversion  
+- Leveraging the .describe( ) method to produce notable findings and do necessary data clean-up/data-type conversion  
 - Subsetting DataFrame to include only those rulers who are not currently heads of state 
 - Converting target data to express length of reign in terms of years 
 
